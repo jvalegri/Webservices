@@ -1,0 +1,140 @@
+<!--  João Victor Alegri Dias  -->
+<cursos>
+	<BSI>
+		<id_curso>2</id_curso>
+		<nome_curso>Bacharelado em Sistemas de Informação</nome_curso>
+		<coordenador>Aujor Andrade</coordenador>
+		<matr_coord>1256</matr_coord>
+		<email_coord>aujor.andrade@ifc.edu.br</email_coord>
+		<disciplinas>
+			<disciplina>
+				<cod_disc>SIC0301</cod_disc>
+				<nome_disc>Algoritmos e Programação de Computadores I</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>SIC0302</cod_disc>
+				<nome_disc>Fundamentos de Administração</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>SIC0303</cod_disc>
+				<nome_disc>Introdução a Tecnologia da Informação</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>SIC0304</cod_disc>
+				<nome_disc>Leitura e Produção Textual</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>SIC0305</cod_disc>
+				<nome_disc>Matemática Fundamental</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+		</disciplinas>
+	</BSI>
+	<TSI>
+		<id_curso>1</id_curso>
+		<nome_curso>Tecnologia em Sistemas para Internet - TSI</nome_curso>
+		<coordenador>Rafael Speroni</coordenador>
+		<matr_coord>2354</matr_coord>
+		<email_coord>rafael.speroni@ifc.edu.br</email_coord>
+		<disciplinas>
+			<disciplina>
+				<cod_disc>STB0305</cod_disc>
+				<nome_disc>Programação Web</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0309</cod_disc>
+				<nome_disc>Engenharia de Software I</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0308</cod_disc>
+				<nome_disc>Sistemas Operacionais</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0307</cod_disc>
+				<nome_disc>Banco de Dados I</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0306</cod_disc>
+				<nome_disc>Estrutura de Dados</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0305</cod_disc>
+				<nome_disc>Algoritmos e Programação de Computadores I</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0304</cod_disc>
+				<nome_disc>Introdução à Programação Web</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0303</cod_disc>
+				<nome_disc>Introdução à Computação</nome_disc>
+				<carga_horaria>30</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STB0302</cod_disc>
+				<nome_disc>Inglês Instrumental</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+		</disciplinas>
+	</TSI>
+	<TSIEAD>
+		<id_curso>3</id_curso>
+		<nome_curso>Tecnologia em Sistemas para Internet - TSI - EaD</nome_curso>
+		<coordenador>Daniel Anderle</coordenador>
+		<matr_coord>5364</matr_coord>
+		<email_coord>daniel.anderle@ifc.edu.br</email_coord>
+		<disciplinas>
+			<disciplina>
+				<cod_disc>STC0301</cod_disc>
+				<nome_disc>Introdução a EaD / Práticas Profissionais</nome_disc>
+				<carga_horaria>30</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0302</cod_disc>
+				<nome_disc>Matemática Elementar</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0303</cod_disc>
+				<nome_disc>Inglês Instrumental </nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0304</cod_disc>
+				<nome_disc>Introdução a Computação</nome_disc>
+				<carga_horaria>30</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0305</cod_disc>
+				<nome_disc>Introdução à Programação Web</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0306</cod_disc>
+				<nome_disc>Algoritmos e Técnicas de Programação</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0307</cod_disc>
+				<nome_disc>Banco de Dados I</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+			<disciplina>
+				<cod_disc>STC0308</cod_disc>
+				<nome_disc>Leitura e Produção Textual</nome_disc>
+				<carga_horaria>60</carga_horaria>
+			</disciplina>
+		</disciplinas>
+	</TSIEAD>
+</cursos>

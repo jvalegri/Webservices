@@ -1,0 +1,14 @@
+<!ELEMENT cursos (BSI | TSI | TSIEAD)+>
+<!ELEMENT BSI (id_curso, nome_curso, coordenador, matr_coord, email_coord, disciplinas)>
+<!ELEMENT TSI (id_curso, nome_curso, coordenador, matr_coord, email_coord, disciplinas)>
+<!ELEMENT TSIEAD (id_curso, nome_curso, coordenador, matr_coord, email_coord, disciplinas)>
+<!ELEMENT id_curso (#PCDATA)>
+<!ELEMENT nome_curso (#PCDATA)>
+<!ELEMENT coordenador (#PCDATA)>
+<!ELEMENT matr_coord (#PCDATA)>
+<!ELEMENT email_coord (#PCDATA)>
+<!ELEMENT disciplinas (disciplina+)>
+<!ELEMENT disciplina (cod_disc, nome_disc, carga_horaria)>
+<!ELEMENT cod_disc (#PCDATA)>
+<!ELEMENT nome_disc (#PCDATA)>
+<!ELEMENT carga_horaria (#PCDATA)>
